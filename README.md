@@ -16,3 +16,5 @@ A 2D shooting game
 紅色 -> Flame projector  
 黃色 -> Laser  
 按下Q以切換武器，按下左鍵發射  
+  
+![image](https://github.com/mengbei0116/python_final_project/blob/main/%E9%81%8A%E6%88%B2%E7%95%AB%E9%9D%A2.jfif)
